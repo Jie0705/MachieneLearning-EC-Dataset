@@ -1,6 +1,6 @@
 # MachieneLearning-EC-Dataset
 This is the repository for dataset that were used in paper:
-Physics-Informed XGBoost Model forElectrocaloric Temperature Change Predictions in Ceramics
+Physics-Informed XGBoost Model forElectrocaloric Temperature Change Predictions in Ceramics.
 
 The data sets were gathered from published papers. The material composions are epanded into 145 Magpie features [*Ward, L., Agrawal, A., Choudhary, A., & Wolverton, C. (2016). A general-purpose machine learning framework for predicting properties of inorganic materials. npj Computational Materials, 2(1), 1-7.*] 
 and are stored along with the extracted data in the csv files. Below are the data descriptions for separate files. 
